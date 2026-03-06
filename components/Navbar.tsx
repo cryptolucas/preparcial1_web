@@ -13,6 +13,15 @@ export default function Navbar() {
         <li>
           <Link href="/crear-actor">Crear Actor</Link>
         </li>
+
+        <li>
+          <Link href="/crear-pelicula">Crear Pelicula</Link>
+        </li>
+
+        <li>
+          <Link href="/peliculas">Ver Listado Peliculas</Link>
+        </li>
+
         
       </ul>
     </nav>
